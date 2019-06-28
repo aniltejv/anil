@@ -1,1 +1,5 @@
-print("nellore")
+anil=input("manchibaludu?")
+if anil=="yyes":
+    print("yoffcourse")
+else:
+    print("no")
